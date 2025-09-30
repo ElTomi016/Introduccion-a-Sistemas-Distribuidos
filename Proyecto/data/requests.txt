@@ -1,0 +1,2 @@
+DEV|userA|BOOK002
+REN|userB|BOOK001
